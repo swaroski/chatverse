@@ -26,7 +26,7 @@ const NavBar = ({ isPro }: NavBarProps) => {
                 <Link href={"/"} className="flex items-center">
                     <Image src={logo} className="mr-2 hidden sm:block" width={42} height={42} alt="title" />
                     <h1 className="hidden sm:block text-xl md:text-3xl font-bold text-primary">
-                        companion.ai
+                    ChatVerse
                     </h1>
                 </Link>
 

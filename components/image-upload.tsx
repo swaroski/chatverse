@@ -28,7 +28,7 @@ const ImageUpload = ({ value, onChange, disabled }: ImageUploadProps) => {
                 options={{
                     maxFiles: 1
                 }}
-                uploadPreset="ayyleoo2"
+                uploadPreset="ai-companion"
             >
                 <div className="
                     p-4
